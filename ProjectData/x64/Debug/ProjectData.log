@@ -1,0 +1,18 @@
+﻿  Admin.cpp
+  Attribute.cpp
+  Footballer.cpp
+  League.cpp
+  Match.cpp
+  Player.cpp
+C:\Users\user\Desktop\C-Fantasy-Game-main\ProjectData\Player.cpp(15,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\Desktop\C-Fantasy-Game-main\ProjectData\Player.cpp(113,71): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\user\Desktop\C-Fantasy-Game-main\ProjectData\Player.cpp(113,71): warning C4267:         with
+C:\Users\user\Desktop\C-Fantasy-Game-main\ProjectData\Player.cpp(113,71): warning C4267:         [
+C:\Users\user\Desktop\C-Fantasy-Game-main\ProjectData\Player.cpp(113,71): warning C4267:             _Ty=int
+C:\Users\user\Desktop\C-Fantasy-Game-main\ProjectData\Player.cpp(113,71): warning C4267:         ]
+  PlayersLeague.cpp
+  ProjectData.cpp
+  Team.cpp
+  testtxt.cpp
+  Generating Code...
+  ProjectData.vcxproj -> C:\Users\user\Desktop\C-Fantasy-Game-main\x64\Debug\ProjectData.exe
